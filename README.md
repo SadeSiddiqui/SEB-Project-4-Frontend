@@ -34,6 +34,18 @@ Helping hands is a multipage full-stack application. This is a open source forum
 
 ## Future Enhancements 
 
+Future enhancements can include: 
+
+- Secure rootpaths: Only the person that has added a condition to the conditions page can delete it, instead of any user.
+- Links to resources, charities, therapist etc to help people know what resources are avaliable.
+- Account design options: give users more options when creating an account such as adding a profile picture, short introduction etc
+- Role-based Access Control
+- Condition Categories & Tags:
+- Notification System
+- Timeline feature
+- Login Wellness Check-in
+- Emotional & Physical Well-being Journal
+- Medication Journal 
 
 ## Installation   
 
