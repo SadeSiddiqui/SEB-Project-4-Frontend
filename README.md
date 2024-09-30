@@ -48,7 +48,34 @@ Future enhancements can include:
 - Medication Journal 
 
 ## Installation   
+1) First clone the repository to your local machine:
 
+```git clone git@github.com:SadeSiddiqui/SEB-Project-4-Frontend.git``` 
+
+```cd SEB-Project-4-Frontend```
+
+Alternatively, if your unfamiliar with SSH, use HTTPS:  
+
+```git clone https://github.com/SadeSiddiqui/SEB-Project-4-Frontend.git```  
+
+```cd SEB-Project-4-Frontend```
+
+2) Install Dependencies:
+The project relies on several frontend packages and libraries, including React, TypeScript, Bulma, and Axios. Ensure you have Node.js installed on your machine. Then, install all the necessary dependencies.
+
+```npm install``` 
+
+This will install the needed dependencies, such as: 
+
+- axois
+- bulma
+- react & react-dom
+- react-router-dom
+- typescript
+
+However, you can manually add the dependencies with: 
+
+```npm install bulma react react-dom react-router-dom```
 
 ## Usage 
 
