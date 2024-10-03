@@ -93,6 +93,8 @@ However, you can manually add the dependencies with:
 
 ## License and Acknowledgements
 
+License: 
+
 Acknowledgements: A big thank you to collaborator Evyn-Rose Goldstein [evynrose](https://github.com/evynrose) with her help in this project 
 
 ## Contact Information 
