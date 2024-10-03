@@ -93,7 +93,7 @@ However, you can manually add the dependencies with:
 
 ## License and Acknowledgements
 
-License: 
+License:  This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 Acknowledgements: A big thank you to collaborator Evyn-Rose Goldstein [evynrose](https://github.com/evynrose) with her help in this project 
 
