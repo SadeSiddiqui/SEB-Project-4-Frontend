@@ -88,10 +88,22 @@ However, you can manually add the dependencies with:
 ## Testing 
 
 
-## Contributions/Development Status 
+## Contributions/Development Status
 
 
 ## License and Acknowledgements
 
 
 ## Contact Information 
+
+Feel free to reach out for questions or collaboration opportunities: 
+
+Syed Siddiqui: 
+
+[LinkedIn](https://www.linkedin.com/in/syed-siddiqui/)
+
+[Email](syedsiddiqui1@gmail.com)
+
+Evyn-Rose Goldstein: 
+
+[LinkedIn](https://www.linkedin.com/in/evynrose/)
